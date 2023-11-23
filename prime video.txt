@@ -5,3 +5,7 @@ m.media-amazon.com
 images-na.ssl-images-amazon.com
 msh.amazon.com
 absewfkha8cb.na.api.amazonvideo.com
+music.amazon.com
+cf-timedtext.aux.pv-cdn.net
+cf-trickplay.aux.pv-cdn.net
+pop-br-cf.dash.pv-cdn.net
