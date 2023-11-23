@@ -1,3 +1,4 @@
+0.0.0.0 scontent-fallback.cdninstagram.com
 0.0.0.0 web-fallback.facebook.com
 0.0.0.0 instagram.fccm5-1.fna.fbcdn.net
 0.0.0.0 z-p42-chat-e2ee-ig.facebook.com
