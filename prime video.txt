@@ -12,3 +12,4 @@ pop-br-cf.dash.pv-cdn.net
 dp-gw-na.amazon.com
 doh6p23r7m48u.cloudfront.net
 dcape-na.amazon.com
+q419yw5kcz2ra0.na.api.amazonvideo.com
