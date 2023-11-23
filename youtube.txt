@@ -1,3 +1,4 @@
+youtube.com
 www.youtube.com
 youtubei.googleapis.com
 accounts.youtube.com
