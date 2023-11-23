@@ -1,0 +1,5 @@
+telegram.org
+venus.web.telegram.org
+web.telegram.org
+desktop.telegram.org
+core.telegram.org
