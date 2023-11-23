@@ -11,3 +11,4 @@ cf-trickplay.aux.pv-cdn.net
 pop-br-cf.dash.pv-cdn.net
 dp-gw-na.amazon.com
 doh6p23r7m48u.cloudfront.net
+dcape-na.amazon.com
