@@ -41,3 +41,5 @@ k-ulog.kwaipros.com
 ntp.kslawin.com
 w-zt.kwaipros.com
 k-api.mythad.com
+tx-br-pic.kwai.net
+aws-static.kwai.net
