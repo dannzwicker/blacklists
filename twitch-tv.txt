@@ -1,0 +1,15 @@
+irc-ws.chat.twitch.tv
+k.twitchcdn.net
+passport.twitch.tv
+api.twitch.tv
+www.twitch.tv
+extension-files.twitch.tv
+supervisor.ext-twitch.tv
+h1ekceo16erc49snp0sine3k9ccbh9.ext-twitch.tv
+help.twitch.tv
+assets.help.twitch.tv
+gql.twitch.tv
+media.forgecdn.net
+pubsub-edge.twitch.tv
+static.twitchcdn.net
+player.twitch.tv
