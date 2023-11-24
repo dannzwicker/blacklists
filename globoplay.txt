@@ -18,3 +18,6 @@ vod-nsc-sc-01.video.globo.com
 horizon.globo.com
 llaqlq-launches.appsflyersdk.com
 4qlec3x0tc.execute-api.us-east-1.amazonaws.com
+live.video.globo.com
+s04.video.glbimg.com
+live.video.globo.co
