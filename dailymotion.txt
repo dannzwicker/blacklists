@@ -1,0 +1,12 @@
+imasdk.googleapis.com
+faq.dailymotion.com
+dailymotion.zendesk.com
+www.dailymotion.com
+about.dailymotion.com
+geo.dailymotion.com
+static1.dmcdn.net
+graphql.api.dailymotion.com
+pebed.dm-event.net
+s1.dmcdn.net
+mebed.dm-event.net
+static1-ssl.dmcdn.net
