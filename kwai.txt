@@ -1,3 +1,9 @@
+polaris-static.kwai.net
+cloudflare-br-pic.kwai.net
+s15.kwai.net
+aws-br-pic.kwai.net
+t-api-pro.kwai-pro.com
+k-ulog.kwai-pro.com
 a-api-pro.kwai-pro.com
 ws-pro-pull.kwai.net
 cdn-static.kwai.net
