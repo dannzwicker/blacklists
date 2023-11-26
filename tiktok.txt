@@ -1,18 +1,10 @@
-	lf-main-gecko-source.tiktokcdn.com
-	whoami.akamai.net
-	webcast22-normal-c-useast1a.tiktokv.com
-	p16-useast2a.tiktokcdn.com
-	search22-normal-c-useast1a.tiktokv.com
-	p16-sign-useast2a.tiktokcdn.com
-	v39-dynamic-g
-	v39-dynamic-gig3a.tiktokcdn.com
-	log17-normal-useast1a.tiktokv.com
-	img-1000736.ad-score.com
-	p16-g1-sign-va.ibyteimg.com
-	lf16-beecdn.ibytedtos.com
-	location-v6-va.tiktokv.com
-	ru6a.tiktokcdn.com
-	p16-h1-sign-va.ibyteimg.com
+#--------------------------------------------------------#
+# Last Update: 30-11-2022 with 9.645 domains
+# MIT License: Copyright (c) 2022 ZangadoProjets
+# https://github.com/zangadoprojets/pi-hole-blocklist
+# Report if you find a problem or want to add an address.
+#--------------------------------------------------------#
+
 	161.117.70.136
 	161.117.70.145
 	161.117.70.68
