@@ -1,34 +1,12 @@
 usc1-gcp-v62.api.snapchat.com
-
-
-	usc1-gcp-v61.api.snapchat.com
-
-
-	gcp.api.snapchat.com
-
-
-	us-east1-aws.api.snapchat.com
-
-
-	aws.duplex.snapchat.com
-
-
-	aws.api.snapchat.com
-
-
-	aws-proxy-gcp.api.snapchat.com
-
-
-	us-central1-gcp.api.snapchat.com
-
-
-	us-east4-gcp.api.snapchat.com
-
-
-	cf-st.sc-cdn.net
-
-
-	bolt-gcdn.sc-cdn.net
-
-
-	images.bitmoji.com
+usc1-gcp-v61.api.snapchat.com
+gcp.api.snapchat.com
+us-east1-aws.api.snapchat.com
+aws.duplex.snapchat.com
+aws.api.snapchat.com
+aws-proxy-gcp.api.snapchat.com
+us-central1-gcp.api.snapchat.com
+us-east4-gcp.api.snapchat.com
+cf-st.sc-cdn.net
+bolt-gcdn.sc-cdn.net
+images.bitmoji.com
