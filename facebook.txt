@@ -1,4 +1,7 @@
-
+ scontent.fccm5-1.fna.fbcdn.net
+	static-fallback.xx.fbcdn.net
+	scontent-fallback.xx.fbcdn.net
+	sonar6.xy.fbcdn.net
  scontent.ffln5-1.fna.fbcdn.net
  instagram.xx.fbcdn.net
  sonar-eze.xx.fbcdn.net
