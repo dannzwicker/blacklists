@@ -10,3 +10,6 @@ us-east4-gcp.api.snapchat.com
 cf-st.sc-cdn.net
 bolt-gcdn.sc-cdn.net
 images.bitmoji.com
+aws.duplex.snapchat.com
+config.ad.snaptube.app
+ms.sc-jpl.com
