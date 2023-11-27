@@ -8,3 +8,8 @@ nflxvideo.net
 ae.nflximg.net
 www.netflix.com
 web.prod.ftl.netflix.com
+android-appboot.netflix.com
+android.prod.cloud.netflix.com
+help.nflxext.com
+assets.nflxext.com
+android.prod.ftl.netflix.com
