@@ -13,3 +13,4 @@ android.prod.cloud.netflix.com
 help.nflxext.com
 assets.nflxext.com
 android.prod.ftl.netflix.com
+android-anycast.prod.ftl.netflix.com
